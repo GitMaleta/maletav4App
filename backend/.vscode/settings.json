@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/57bd0fae-33d2-4033-ab4b-7bccbe8cf83c/resourceGroups/Maleta/providers/Microsoft.Web/sites/autodesk-test",
+    "appService.deploySubpath": ""
+}

@@ -1,0 +1,7 @@
+False
+6d2f7b1d-dc94-4d65-ad6d-b92dda66252efb1fc5ca-94f2-4d86-b561-a42945e736ec
+{15447c10-a367-45f1-b275-e154868b0971}{93f78f3d-b6f7-47a5-a2d8-eb174fac0424}
+{6b8a58a9-34f7-4fd9-a19c-1fb77957fca9}
+1.0.0.0
+MaletaV4Appv2
+_layouts/15/

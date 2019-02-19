@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\MaletaV4Appv2Manifest.xml
+C:\Source\MaletaV4Appv2\MaletaV4Appv2\bin\Debug\MaletaV4Appv2.debugapp

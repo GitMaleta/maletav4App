@@ -1,0 +1,2 @@
+C:\Source\MaletaV4Appv2\MaletaV4Appv2\obj\Debug\MaletaV4Appv2.csprojAssemblyReference.cache
+C:\Source\MaletaV4Appv2\MaletaV4Appv2\obj\Debug\MaletaV4Appv2.csproj.CoreCompileInputs.cache
